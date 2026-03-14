@@ -18,7 +18,7 @@ Welcome to my central repository of verified credentials. This collection docume
 
 ### 🤖 Artificial Intelligence & Prompt Engineering
 
-# **Anthropic AI**
+# **Anthropic: Claude AI Certifications**
 * *AI Fluency: Framework & Foundations*
 * *Claude 101*
 
