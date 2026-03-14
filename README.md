@@ -18,14 +18,15 @@ Welcome to my central repository of verified credentials. This collection docume
 
 ### 🤖 Artificial Intelligence & Prompt Engineering
 
-* **Anthropic AI**
+# **Anthropic AI**
 * *AI Fluency: Framework & Foundations*
 * *Claude 101*
 
 
-* **Google × Coursera** | Prompting Essentials Specialization
+# **Google × Coursera** | Prompting Essentials Specialization
 * *Focus: Prompt engineering, AI-assisted workflows, and productivity.*
-* **Core Modules:** 1. Start Writing Prompts Like a Pro
+* **Core Modules:**
+1. Start Writing Prompts Like a Pro
 2. Design Prompts for Everyday Work Tasks
 3. Use AI as a Creative or Expert Partner
 4. Speed Up Data Analysis and Presentation Building
