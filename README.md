@@ -1,94 +1,72 @@
-🎓 My Certificates
+# 🎓 My Learning Portfolio: Certifications
 
-This repository contains my verified certificates and learning achievements in Data Analytics, Artificial Intelligence, Machine Learning, Programming, and Professional Skills.
+Welcome to my central repository of verified credentials. This collection documents my technical evolution across **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**.
 
-📜 Certifications
-🧠 Data Analytics & Machine Learning
+---
 
-IBM — Data Analyst (Python)
+## 📜 Professional Certifications
 
-IBM — Machine Learning Certificate
+### 🧠 Data Analytics & Machine Learning
 
-VOIS — ML Basics
+* **IBM** | Data Analyst (Python)
+* **IBM** | Machine Learning Professional Certificate
+* **VOIS** | ML Foundations & Basics
+* **PW Skills** | Data Analytics Specialization
+* **OneRoadMap** | Data Analyst & Excel for Data Analysis
+* **AI Techies** | SQL Mastery Workshop
+* **be10X** | AI Tools for Productivity
 
-PW Skills — Data Analytics
+### 🤖 Artificial Intelligence & Prompt Engineering
 
-AI Techies — SQL Workshop
+* **Anthropic AI**
+* *AI Fluency: Framework & Foundations*
+* *Claude 101*
 
-be10X — AI Tools Workshop
 
-OneRoadMap — Data Analyst
+* **Google × Coursera** | Prompting Essentials Specialization
+* *Focus: Prompt engineering, AI-assisted workflows, and productivity.*
+* **Core Modules:** 1. Start Writing Prompts Like a Pro
+2. Design Prompts for Everyday Work Tasks
+3. Use AI as a Creative or Expert Partner
+4. Speed Up Data Analysis and Presentation Building
 
-OneRoadMap — Excel for Data Analysis
 
-🤖 Artificial Intelligence & Prompt Engineering
-Anthropic AI Certifications
 
-AI Fluency: Framework & Foundations — Anthropic
+### 💻 Programming & Databases
 
-Claude 101 — Anthropic
+* **IIT Bombay (Spoken Tutorial)** * RDBMS | R Programming | PHP & SQL | CSS
+* **Oracle** | Oracle Associate Certificate
 
-Google Prompting Essentials (Google × Coursera)
+### ⚙️ Intel AI Series
 
-Completed a 4-course specialization focused on prompt engineering, AI productivity, and AI-assisted workflows.
+* **Intel AI AWARE** Certificate
+* **Intel AI APPRECIATE** Certificate
+* **Intel AI BADGE** Certificate
 
-Courses Completed:
+### 💬 Communication & Professional Skills
 
-Start Writing Prompts Like a Pro
+* **TCS iON** | Professional Communication Skills
 
-Design Prompts for Everyday Work Tasks
+---
 
-Use AI as a Creative or Expert Partner
+## 📊 Technical Skills Summary
 
-Speed Up Data Analysis and Presentation Building
+My learning journey is centered on bridging the gap between raw data and actionable AI insights. Key competencies include:
 
-💻 Programming & Databases
+* **Data Science:** Exploratory Data Analysis (EDA), Statistical Modeling, Machine Learning.
+* **AI Ops:** Advanced Prompt Engineering, Claude/GPT Workflow Automation.
+* **Databases:** SQL, RDBMS Management, Oracle.
+* **Development:** Python, R, PHP, CSS.
 
-IIT Bombay Spoken Tutorial
+---
 
-RDBMS
+## 📬 Contact & Connect
 
-R Programming
+Let's discuss data, AI, or potential collaborations:
 
-PHP & SQL
+* **Email:** [shreyaskadlag2606@gmail.com]()
+* **LinkedIn:** [linkedin.com/in/shreyas-kadlag](https://www.google.com/search?q=https://www.linkedin.com/in/shreyas-kadlag-a66b93299)
 
-CSS
+---
 
-Oracle — Oracle Associate Certificate
-
-🤖 Artificial Intelligence (Intel AI Series)
-
-Intel AI AWARE Certificate
-
-Intel AI APPRECIATE Certificate
-
-Intel AI BADGE Certificate
-
-💬 Communication & Professional Skills
-
-TCS iON — Communication Skills
-
-🧾 Summary
-
-These certifications represent my continuous learning journey in Data Analytics, Artificial Intelligence, and software technologies.
-
-Through these programs, I have developed skills in:
-
-Data Analysis
-
-Machine Learning
-
-SQL & Databases
-
-Prompt Engineering
-
-AI-assisted Data Workflows
-
-Programming and Analytics Tools
-
-All certificate files are included in this repository for verification and portfolio purposes.
-
-📧 Contact:
-Email: shreyaskadlag2606@gmail.com
-
-LinkedIn: www.linkedin.com/in/shreyas-kadlag-a66b93299
+> *All certificates are stored within this repository for verification purposes.*
