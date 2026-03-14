@@ -1,40 +1,94 @@
-# 🎓 My Certificates
+🎓 My Certificates
 
-This repository contains all my verified certificates and achievements related to Data Analytics, Machine Learning, Programming, and Professional Skills.
+This repository contains my verified certificates and learning achievements in Data Analytics, Artificial Intelligence, Machine Learning, Programming, and Professional Skills.
 
-## 📜 Certifications
+📜 Certifications
+🧠 Data Analytics & Machine Learning
 
-### 🧠 Data Analytics & Machine Learning
-- **IBM** — Data Analyst (Python)
-- **IBM** — Machine Learning Certificate
-- **VOIS** — ML Basics
-- **PW Skills** — Data Analytics
-- **AI Techies** — SQL Workshop
-- **be10X** — AI Tools Workshop
-- **OneRoadMap** — Data Analyst
-- **OneRoadMap** — Excel for Data Analysis
+IBM — Data Analyst (Python)
 
-### 💻 Programming & Databases
-- **IIT Bombay Spoken Tutorial**
-  - RDBMS  
-  - R Programming  
-  - PHP & SQL  
-  - CSS
-- **Oracle** — Oracle Associate Certificate
+IBM — Machine Learning Certificate
 
-### 🤖 Artificial Intelligence (Intel AI Series)
-- **Intel AI AWARE** Certificate  
-- **Intel AI APPRECIATE** Certificate  
-- **Intel AI BADGE** Certificate
+VOIS — ML Basics
 
-### 💬 Communication & Professional Skills
-- **TCS iON** — Communication Skills
+PW Skills — Data Analytics
 
----
+AI Techies — SQL Workshop
 
-## 🧾 Summary
-These certificates reflect my learning journey across multiple technical and professional domains — from Data Analytics and Machine Learning to SQL, RDBMS, and AI applications.  
-All PDF copies of certificates are included in this repository for verification and portfolio purposes.
+be10X — AI Tools Workshop
 
----
-📧 **Contact:** shreyaskadlag2606@gmail.com
+OneRoadMap — Data Analyst
+
+OneRoadMap — Excel for Data Analysis
+
+🤖 Artificial Intelligence & Prompt Engineering
+Anthropic AI Certifications
+
+AI Fluency: Framework & Foundations — Anthropic
+
+Claude 101 — Anthropic
+
+Google Prompting Essentials (Google × Coursera)
+
+Completed a 4-course specialization focused on prompt engineering, AI productivity, and AI-assisted workflows.
+
+Courses Completed:
+
+Start Writing Prompts Like a Pro
+
+Design Prompts for Everyday Work Tasks
+
+Use AI as a Creative or Expert Partner
+
+Speed Up Data Analysis and Presentation Building
+
+💻 Programming & Databases
+
+IIT Bombay Spoken Tutorial
+
+RDBMS
+
+R Programming
+
+PHP & SQL
+
+CSS
+
+Oracle — Oracle Associate Certificate
+
+🤖 Artificial Intelligence (Intel AI Series)
+
+Intel AI AWARE Certificate
+
+Intel AI APPRECIATE Certificate
+
+Intel AI BADGE Certificate
+
+💬 Communication & Professional Skills
+
+TCS iON — Communication Skills
+
+🧾 Summary
+
+These certifications represent my continuous learning journey in Data Analytics, Artificial Intelligence, and software technologies.
+
+Through these programs, I have developed skills in:
+
+Data Analysis
+
+Machine Learning
+
+SQL & Databases
+
+Prompt Engineering
+
+AI-assisted Data Workflows
+
+Programming and Analytics Tools
+
+All certificate files are included in this repository for verification and portfolio purposes.
+
+📧 Contact:
+Email: shreyaskadlag2606@gmail.com
+
+LinkedIn: www.linkedin.com/in/shreyas-kadlag-a66b93299
